@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, image2 world! The time is $(date)."
+echo "Hello, image 3 world! The time is $(date)."
